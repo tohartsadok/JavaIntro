@@ -2,8 +2,8 @@
 class Tentative {
 
   public static void main(String[] args) {
-  
-    System.out.println("This should be working!");
+    int x = 4;
+    System.out.println("x");
     
   } // end of main
     
